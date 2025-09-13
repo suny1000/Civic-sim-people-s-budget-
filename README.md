@@ -171,10 +171,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Documentation**: Check this README and inline code comments
 - **Issues**: Report bugs via GitHub Issues
 - **Feature Requests**: Submit via GitHub Discussions
-- **Contact**: [Your contact information]
+- **Contact**: sksmovies11@gmail.com
 
 ---
 
 **CivicSim** - Empowering citizens through gamified participatory budgeting.
-
-Built with ❤️ for civic engagement and democratic participation.
